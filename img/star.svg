@@ -1,0 +1,12 @@
+<svg width="61" height="61" viewBox="0 0 61 61" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 79">
+<ellipse id="Ellipse 5" cx="30.392" cy="30.4179" rx="29.9682" ry="29.9394" fill="url(#paint0_linear_312_126)"/>
+<path id="Star 1" d="M29.9694 13.9724L30.4516 21.0591C30.7909 26.0476 34.7626 30.0187 39.7511 30.3574L46.8529 30.8397L39.7511 31.3219C34.7626 31.6606 30.7909 35.6317 30.4516 40.6202L29.9694 47.7069L29.4873 40.6202C29.148 35.6317 25.1763 31.6606 20.1878 31.3219L13.0859 30.8397L20.1878 30.3574C25.1763 30.0187 29.148 26.0476 29.4873 21.0591L29.9694 13.9724Z" fill="#FFD500"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_312_126" x1="0.121713" y1="60.3435" x2="60.9657" y2="59.6028" gradientUnits="userSpaceOnUse">
+<stop stop-color="#296BF6"/>
+<stop offset="1" stop-color="#123581"/>
+</linearGradient>
+</defs>
+</svg>
